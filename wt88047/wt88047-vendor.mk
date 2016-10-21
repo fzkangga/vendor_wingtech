@@ -274,7 +274,6 @@ PRODUCT_PACKAGES += \
     libmm-abl \
     libqct_resampler \
     libtime_genoff \
-    ims \
     shutdownlistener \
     TimeService \
     CNEService \
