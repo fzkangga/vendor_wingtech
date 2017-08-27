@@ -233,6 +233,7 @@ PRODUCT_COPY_FILES += \
     vendor/wingtech/wt88047/proprietary/vendor/lib/libSHIMDivxDrm.so:system/vendor/lib/libSHIMDivxDrm.so \
     vendor/wingtech/wt88047/proprietary/vendor/lib/libsmemlog.so:system/vendor/lib/libsmemlog.so \
     vendor/wingtech/wt88047/proprietary/vendor/lib/libssd.so:system/vendor/lib/libssd.so \
+    vendor/wingtech/wt88047/proprietary/vendor/lib/libstlport.so:system/vendor/lib/libstlport.so \
     vendor/wingtech/wt88047/proprietary/vendor/lib/libsystem_health_mon.so:system/vendor/lib/libsystem_health_mon.so \
     vendor/wingtech/wt88047/proprietary/vendor/lib/libthermalclient.so:system/vendor/lib/libthermalclient.so \
     vendor/wingtech/wt88047/proprietary/vendor/lib/libthermalioctl.so:system/vendor/lib/libthermalioctl.so \
